@@ -1,6 +1,6 @@
 ## 📌 1. Project Structure
 
-Below is the full **HTML code** for  cute app‑style aesthetic website. 
+Below is the full **HTML code** for the cute app‑style aesthetic website. 
 
 ```html
 <!DOCTYPE html>
@@ -131,7 +131,7 @@ Below is the full **HTML code** for  cute app‑style aesthetic website.
 </html>
 ```
 
-
+---
 
 ## 📌 1. Project Structure
 
@@ -148,6 +148,7 @@ aesthetic-website/
 └── README.md   ← (this file)
 ```
 
+> Place all your screenshots inside the **images/** folder.
 
 
 ## 📌 2. Running a Local Server (Windows)
@@ -175,7 +176,6 @@ Serving HTTP on :: port 8000
 ```
 
 
-
 ## 📌 3. Find Your IPv4 Address
 
 Run:
@@ -190,19 +190,18 @@ Look for **Wireless LAN adapter Wi-Fi** and note:
 IPv4 Address . . . . . : <your_ip_here>
 ```
 
-Example from the screenshot:
+Example from your screenshot:
 
 ```
 10.63.185.20
 ```
 
 
-
 ## 📌 4. View Website on Your Phone
 
-Make sure your phone and laptop are connected to the **same Wi-Fi**.
+Make sure the phone and laptop are connected to the **same Wi-Fi**.
 
-Open your phone browser and enter:
+Open the phone browser and enter:
 
 ```
 http://<your_ipv4>:8000
@@ -215,18 +214,15 @@ http://10.63.185.20:8000
 ```
 
 
-
 ## 📌 5. Adding Images to the Website
 
-Place the  screenshots in the **images/** folder.
+Place your screenshots in the **images/** folder.
 
 Example HTML to show an image:
 
 ```html
 <img src="images/screenshot1.png" alt="Screenshot" width="300">
 ```
-
-
 
 ## 📌 6. Adding Images to This Markdown File
 
@@ -262,19 +258,20 @@ Below are your actual project screenshots:
 
 ### 🖥️ Python Version
 
-![Python Version](images/SS3.png)
+![Python Version](appwallpaper/images/SS3.png)
 
 ### 🌐 IP Config
 
-![IP Config](images/SS2.png)
+![IP Config](appwallpaper/images/SS2.png)
 
 ### 📄 HTML Code (index.html)
 
-![Index Code](images/SS1.png)
+![Index Code](appwallpaper/images/SS1.png)
 
 ### 📱 Website Phone View
 
-![Phone View](images/phoneview.png)
+![Phone View](appwallpaper/images/phoneview.png)
+
 
 
 ## ✔ Done!
