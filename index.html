@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cute App Home</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #ffeef8;
+            font-family: "Poppins", sans-serif;
+        }
+
+        header {
+            text-align: center;
+            padding: 35px 20px;
+        }
+
+        header h1 {
+            color: #ff70a6;
+            font-size: 32px;
+            margin-bottom: 5px;
+        }
+
+        header p {
+            font-size: 15px;
+            color: #6a4b5a;
+        }
+
+        .app-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            gap: 25px;
+            padding: 25px;
+        }
+
+        .app-card {
+            background: #ffffff;
+            border-radius: 25px;
+            padding: 20px 10px;
+            text-align: center;
+            box-shadow: 0px 8px 18px rgba(255, 182, 193, 0.45);
+            transition: transform 0.25s;
+        }
+
+        .app-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0px 12px 24px rgba(255, 150, 170, 0.55);
+        }
+
+        .icon {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
+
+        .title {
+            font-size: 16px;
+            color: #ff5fa2;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #8b6f7a;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>✨ My Cute Apps ✨</h1>
+        <p>Tap an app and explore your aesthetic world 💕</p>
+    </header>
+
+    <div class="app-grid">
+
+        <div class="app-card">
+            <div class="icon">📸</div>
+            <div class="title">Gallery</div>
+        </div>
+
+        <div class="app-card">
+            <div class="icon">📒</div>
+            <div class="title">Notes</div>
+        </div>
+
+        <div class="app-card">
+            <div class="icon">🎵</div>
+            <div class="title">Music</div>
+        </div>
+
+        <div class="app-card">
+            <div class="icon">💖</div>
+            <div class="title">Favorites</div>
+        </div>
+
+        <div class="app-card">
+            <div class="icon">🌼</div>
+            <div class="title">Quotes</div>
+        </div>
+
+        <div class="app-card">
+            <div class="icon">🖼️</div>
+            <div class="title">Wallpapers</div>
+        </div>
+
+        <div class="app-card">
+            <div class="icon">📚</div>
+            <div class="title">Study</div>
+        </div>
+
+        <div class="app-card">
+            <div class="icon">🧸</div>
+            <div class="title">Cute Stuff</div>
+        </div>
+
+    </div>
+
+    <footer>
+        Made with 💗 for you!
+    </footer>
+
+</body>
+</html>
