@@ -270,7 +270,7 @@ Below are your actual project screenshots:
 
 ### 📱 Website Phone View
 
-![Phone View](/images/phoneview.png)
+![Phone View](/images/phoneview.jpg)
 
 
 
