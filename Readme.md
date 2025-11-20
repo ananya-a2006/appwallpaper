@@ -258,19 +258,19 @@ Below are your actual project screenshots:
 
 ### 🖥️ Python Version
 
-![Python Version](appwallpaper/images/SS3.png)
+![Python Version](/images/SS3.png)
 
 ### 🌐 IP Config
 
-![IP Config](appwallpaper/images/SS2.png)
+![IP Config](/images/SS2.png)
 
 ### 📄 HTML Code (index.html)
 
-![Index Code](appwallpaper/images/SS1.png)
+![Index Code](/images/SS1.png)
 
 ### 📱 Website Phone View
 
-![Phone View](appwallpaper/images/phoneview.png)
+![Phone View](/images/phoneview.png)
 
 
 
